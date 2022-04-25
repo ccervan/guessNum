@@ -1,5 +1,4 @@
 import random
-from tkinter import CallWrapper
 
 from matplotlib.style import use
 
